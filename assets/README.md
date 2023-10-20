@@ -4,4 +4,4 @@
 
 ## **Image Processing PoV**
 
-## ****
+## **Receptive Fields**
