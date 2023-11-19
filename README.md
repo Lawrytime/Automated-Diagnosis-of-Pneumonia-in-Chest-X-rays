@@ -11,7 +11,22 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/Data%20Distribution%20(Post-Augmenttation)%20.png)
 
+##  
 
-## Transfer Learning (Model Architecture implementation) was carried out for about 5 Different Models:
+# Model Architectures
+
+## Basic CNN Model:
+
+![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/CNN.png)
+
+##  
+
+
+## Transfer Learning 
+
+### Model Architecture implementation was carried out for about 5 Different Models:
 
 ### AlexNet Architecture 
+
+
+![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/alexnet.png)
