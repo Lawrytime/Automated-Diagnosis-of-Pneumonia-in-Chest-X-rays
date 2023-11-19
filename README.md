@@ -26,7 +26,7 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 ## Transfer Learning:
 
-### Model Architecture implementation was carried out for about 5 Different Models:
+### Model Architecture implementation was carried out for about 5 pre-trained Models:
 
 ### AlexNet Architecture 
 
