@@ -26,9 +26,15 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 ## Transfer Learning:
 
-### Model Architecture implementation was carried out for about 5 pre-trained Models:
+### Model Architecture implementation was carried out for 3 pre-trained Models:
 
 ### AlexNet Architecture 
 
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/alexnet.png)
+
+### GoogLeNet
+
+### ResNet
+
+### 
