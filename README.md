@@ -21,6 +21,7 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/CNN.png)
 
+
 ##  
 
 
