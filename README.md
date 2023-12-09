@@ -11,7 +11,6 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 **Data Cleaned, Augmented to `mitigate class imbalance`**
 
 
-
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/Data%20Distribution%20(Post-Augmenttation)%20.png)
 
 
