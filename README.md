@@ -17,7 +17,7 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 # Model Architectures
 
-## Basic CNN Model:
+## Basic CNN Model Implemented:
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/CNN.png)
 
@@ -30,7 +30,7 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 
 ### Model Architecture implementation was carried out for 3 pre-trained Models:
 
-### AlexNet Architecture 
+### AlexNet Architecture Implemented
 
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/alexnet.png)
