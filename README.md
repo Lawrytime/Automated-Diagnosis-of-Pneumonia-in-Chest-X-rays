@@ -5,13 +5,6 @@
 
 Pneumonia is a prevalent disease that can be classified into different types: bacterial pneumonia, viral pneumonia, mycoplasma pneumonia, and fungal pneumonia. However, the dataset used for this task contains samples only from the first two classes. Additionally, the dataset is small and imbalanced, posing a challenge for developing an effective deep learning model. Despite deep learning models typically requiring large amounts of data, it is still possible to construct robust models with limited data by understanding the underlying principles and techniques. The goal of this notebook is to explore and create deep learning models for pneumonia detection using the available dataset.
 
-# Method:
-
-The data was made into 2 form:
-
-  - Binary Classes (Normal, Pneumonia)
-  - Multi Classes (Normal, Viral and Bacterial Pneumonia)
-
 
 # Dataset
 
@@ -19,7 +12,10 @@ The data was made into 2 form:
 
 The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-Ray images.
 
-**The Pneumonia was sub-divided into Bacterial and Viral Pneumonia.**
+The data was made into 2 form:
+
+  - Binary Classes (Normal, Pneumonia)
+  - Multi Classes (Normal, **The Pneumonia was sub-divided into Bacterial and Viral Pneumonia.**)
 
 **Data Cleaned, Augmented to `mitigate class imbalance`**
 
