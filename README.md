@@ -9,8 +9,8 @@ Pneumonia is a prevalent disease that can be classified into different types: ba
 
 The data was made into 2 form:
 
-    Binary Classes (Normal, Pneumonia)
-    Multi Classes (Normal, Viral and Bacterial Pneumonia)
+  - Binary Classes (Normal, Pneumonia)
+  - Multi Classes (Normal, Viral and Bacterial Pneumonia)
 
 
 # Dataset
