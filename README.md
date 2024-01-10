@@ -1,11 +1,22 @@
 # Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays
 
-
-## Background:
-
-Pneumonia is a prevalent disease that can be classified into different types: bacterial pneumonia, viral pneumonia, mycoplasma pneumonia, and fungal pneumonia. However, the dataset used for this task contains samples only from the first two classes. Additionally, the dataset is small and imbalanced, posing a challenge for developing an effective deep learning model. Despite deep learning models typically requiring large amounts of data, it is still possible to construct robust models with limited data by understanding the underlying principles and techniques. The goal here is to explore and create deep learning models for pneumonia detection using the available dataset.
+## 
 
 ![](https://www.scientificanimations.com/wp-content/uploads/2018/06/Pathogens-causing-pneumonia_180607_04.jpg)
+
+## Content
+- [Project Overview](#overview)
+- [](#key)
+- [Dataset](#dataset)
+- [](#model-architecture)
+- [](#training-and-evaluation)
+- [](#results)
+- [](#saliency-maps)
+
+
+## Overview:
+
+Pneumonia is a prevalent disease that can be classified into different types: bacterial pneumonia, viral pneumonia, mycoplasma pneumonia, and fungal pneumonia. However, the dataset used for this task contains samples only from the first two classes. Additionally, the dataset is small and imbalanced, posing a challenge for developing an effective deep learning model. Despite deep learning models typically requiring large amounts of data, it is still possible to construct robust models with limited data by understanding the underlying principles and techniques. The goal here is to explore and create deep learning models for pneumonia detection using the available dataset.
 
 
 ## Dataset
