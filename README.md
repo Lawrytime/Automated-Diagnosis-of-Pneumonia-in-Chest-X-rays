@@ -1,5 +1,10 @@
 # Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays
 
+
+# Background:
+
+Pneumonia is a prevalent disease that can be classified into different types: bacterial pneumonia, viral pneumonia, mycoplasma pneumonia, and fungal pneumonia. However, the dataset used for this task contains samples only from the first two classes.
+
 # Dataset
 
 ### [Pneumonia CRX images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
