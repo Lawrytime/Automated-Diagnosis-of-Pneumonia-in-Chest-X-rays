@@ -70,9 +70,9 @@ The data was made into 2 form:
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/RF_Alex.png)
 
 ### GoogLeNet
-...
+
 
 ### ResNet
-...
+
 
 ### 
