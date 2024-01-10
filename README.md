@@ -15,7 +15,7 @@ The dataset is organised into 3 folders (train, test, val) and contains 5,863 X-
 The data was made into 2 form:
 
   - Binary Classes (Normal, Pneumonia)
-  - Multi Classes (Normal, **The Pneumonia was sub-divided into Bacterial and Viral Pneumonia.**)
+  - Multi Classes (Normal, **Pneumonia was sub-divided into Bacterial and Viral Pneumonia.**)
 
 **Data Cleaned, Augmented to `mitigate class imbalance`**
 
