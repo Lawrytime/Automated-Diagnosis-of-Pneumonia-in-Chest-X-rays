@@ -8,8 +8,9 @@
 - [Project Overview](#overview)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architectures)
--   - Basic Architecture
+    - Basic Architecture
     - Transfer Learning
+    - Receptive Field
 - [](#training-and-evaluation)
 - [](#results)
 - [](#saliency-maps)
