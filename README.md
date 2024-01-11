@@ -11,9 +11,6 @@
     - Basic Architecture
     - Transfer Learning
     - Receptive Field
-- [](#training-and-evaluation)
-- [](#results)
-- [](#saliency-maps)
 
 
 ## Overview:
