@@ -7,7 +7,7 @@
 ## Content
 - [Project Overview](#overview)
 - [Dataset](#dataset)
-- [](#model-architecture)
+- [Model Architecture](#model-architectures)
 - [](#training-and-evaluation)
 - [](#results)
 - [](#saliency-maps)
