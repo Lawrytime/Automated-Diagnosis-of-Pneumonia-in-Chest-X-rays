@@ -8,6 +8,8 @@
 - [Project Overview](#overview)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architectures)
+-   - Basic Architecture
+    - Transfer Learning
 - [](#training-and-evaluation)
 - [](#results)
 - [](#saliency-maps)
