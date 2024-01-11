@@ -6,7 +6,6 @@
 
 ## Content
 - [Project Overview](#overview)
-- [](#key)
 - [Dataset](#dataset)
 - [](#model-architecture)
 - [](#training-and-evaluation)
