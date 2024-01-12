@@ -11,7 +11,7 @@
     - Basic Architecture
     - Transfer Learning
     - Receptive Fields
-- [Image Processing PoV](image-processing-point-of-view)
+- [Image Processing PoV](#image-processing-point-of-view)
 
 
 ## Overview:
