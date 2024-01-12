@@ -7,7 +7,7 @@
 ## Content
 - [Project Overview](#overview)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architectures)
+- [Model Architectures](#model-architectures)
     - Basic Architecture
     - Transfer Learning
     - Receptive Field
