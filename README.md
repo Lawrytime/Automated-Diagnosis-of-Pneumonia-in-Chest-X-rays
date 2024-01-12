@@ -7,11 +7,12 @@
 ## Content
 - [Project Overview](#overview)
 - [Dataset](#dataset)
+- [Image Processing PoV](#image-processing-point-of-view)
 - [Model Architectures](#model-architectures)
     - Basic Architecture
     - Transfer Learning
     - Receptive Fields
-- [Image Processing PoV](#image-processing-point-of-view)
+
 
 
 ## Overview:
