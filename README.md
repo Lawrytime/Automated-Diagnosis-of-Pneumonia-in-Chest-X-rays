@@ -74,5 +74,11 @@ The data was made into 2 form:
 
 ### ResNet
 
+Results:
+
+Of the basic models and pretrained architectures accessed, GoogLeNet gave a relatively better performace when compared to every other models accessed.
+
+This could be as a result of its receptive fields being large to retain information as the images gets convolved in the model which can also be due to its inception nature.
+
 
 ### 
