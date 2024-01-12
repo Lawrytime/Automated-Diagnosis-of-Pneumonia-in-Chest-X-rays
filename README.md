@@ -12,7 +12,7 @@
     - Basic Architecture
     - Transfer Learning
     - Receptive Fields
-- [Results]
+- [Results](#results)
 
 
 
@@ -76,7 +76,7 @@ The data was made into 2 form:
 
 ### ResNet
 
-Results:
+## Results:
 
 Of the basic models and pretrained architectures accessed, GoogLeNet gave a relatively better performace when compared to every other models accessed.
 
