@@ -10,8 +10,8 @@
 - [Model Architectures](#model-architectures)
     - Basic Architecture
     - Transfer Learning
-    - Receptive Field
-- [Image Processing PoV](Image-Processing-Point-of-View)
+    - Receptive Fields
+- [Image Processing PoV](image-processing-point-of-view)
 
 
 ## Overview:
