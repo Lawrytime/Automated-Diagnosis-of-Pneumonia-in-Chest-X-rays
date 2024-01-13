@@ -9,7 +9,7 @@
 - [Dataset](#dataset)
 - [Image Processing PoV](#image-processing-point-of-view)
 - [Model Architectures](#model-architectures)
-    - [Basic Architecture](#basic-architecture)
+    - [Basic Architecture](#basic-cnn-model-implemented)
     - Transfer Learning
     - Receptive Fields
 - [Results](#results)
