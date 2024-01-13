@@ -42,6 +42,8 @@ The data was made into 2 form:
 ## Image Processing Point of View
 This helps highlight the difference between Pneumonia and Normal lung images. This involves subtracting corresponding pixel values from two inages and visualising the resukting image. 
 
+Regions with significant difference (in the center) may indicate the areas affected by pneumonia.
+
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/img_process.png)
 
 ##  
