@@ -40,6 +40,7 @@ The data was made into 2 form:
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/Data%20Distribution%20(Post-Augmenttation)%20.png)
 
 ## Image Processing Point of View
+This helps highlight the difference between Pneumonia and Normal lung images. This involves subtracting corresponding pixel values from two inages and visualising the resukting image. 
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/img_process.png)
 
