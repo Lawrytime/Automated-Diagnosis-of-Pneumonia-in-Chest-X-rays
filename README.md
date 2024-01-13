@@ -11,7 +11,7 @@
 - [Model Architectures](#model-architectures)
     - [Basic Architecture](#basic-cnn-model-implemented)
     - [Transfer Learning](#transfer-learning)
-    - Receptive Fields
+    - [Receptive Fields](#receptive-fields)
 - [Results](#results)
 
 
