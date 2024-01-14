@@ -78,13 +78,14 @@ Regions with significant difference (in the center) may indicate the areas affec
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/RF_Alex.png)
 
+### ResNet
+
+![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/Res_RF.png)
+
 ### GoogLeNet
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/Goog_RF.png)
 
-### ResNet
-
-![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/Res_RF.png)
 
 ## Results:
 
