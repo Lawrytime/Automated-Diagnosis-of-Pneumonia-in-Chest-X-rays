@@ -22,6 +22,22 @@ However, the dataset used for this task contains samples only from the first two
 
 The goal here is to explore and create deep learning models for pneumonia detection using the available dataset.
 
+##  
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu.png" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Right.gif" width="400">
+    </td>
+  </tr>
+</table>
+
+
+##  
+
 
 ## Dataset
 
