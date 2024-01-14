@@ -80,6 +80,7 @@ Regions with significant difference (in the center) may indicate the areas affec
 
 ### GoogLeNet
 
+![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/Goog_RF.png)
 
 ### ResNet
 
