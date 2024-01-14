@@ -84,6 +84,8 @@ Regions with significant difference (in the center) may indicate the areas affec
 
 ### ResNet
 
+![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/Res_RF.png)
+
 ## Results:
 
 Of the basic models and pretrained architectures accessed, GoogLeNet gave a relatively better performace when compared to every other models accessed.
