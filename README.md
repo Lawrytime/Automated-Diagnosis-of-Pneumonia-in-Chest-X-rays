@@ -27,10 +27,10 @@ The goal here is to explore and create deep learning models for pneumonia detect
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu.png" width="400">
+      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu.png">
     </td>
     <td align="center">
-      <img src="https://github.com/Lawrytime/RoboDiffuse/blob/main/assets/Ground%20Truth%20Samples/Bend%20to%20the%20Right.gif" width="400">
+      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu_2.png">
     </td>
   </tr>
 </table>
