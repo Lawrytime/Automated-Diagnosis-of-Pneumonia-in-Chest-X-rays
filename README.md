@@ -58,6 +58,8 @@ Regions with significant difference (in the center) may indicate the areas affec
 
 ## Receptive Fields
 
+### **The Receptive fields of several models of different architectures were analysed.**
+
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/RF.png)
 
 ##  
