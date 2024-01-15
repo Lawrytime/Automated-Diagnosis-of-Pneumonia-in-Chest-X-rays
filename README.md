@@ -35,7 +35,6 @@ The goal here is to explore and create deep learning models for pneumonia detect
   </tr>
 </table>
 
-
 ##  
 
 ## Dataset
