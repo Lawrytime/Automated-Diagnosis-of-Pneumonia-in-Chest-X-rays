@@ -69,6 +69,7 @@ Regions with significant difference (in the center) may indicate the areas affec
 
 ![](https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/CNN.png)
 
+
 ##  
 
 ## Receptive Fields
