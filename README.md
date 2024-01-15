@@ -38,7 +38,6 @@ The goal here is to explore and create deep learning models for pneumonia detect
 
 ##  
 
-
 ## Dataset
 
 ### [Pneumonia CRX images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
