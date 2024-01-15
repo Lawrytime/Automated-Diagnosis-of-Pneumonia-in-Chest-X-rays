@@ -27,7 +27,7 @@ The goal here is to explore and create deep learning models for pneumonia detect
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu.png">
+      <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu.png" width=1500>
     </td>
     <td align="center">
       <img src="https://github.com/Lawrytime/Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays/blob/main/assets/pneu_2.png" width=1500>
