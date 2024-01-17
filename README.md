@@ -20,7 +20,7 @@ Pneumonia is a prevalent disease that can be classified into different types: ba
 
 However, the dataset used for this task contains samples only from the first two classes. Additionally, the dataset is small and imbalanced, posing a challenge for developing an effective deep learning model. Despite deep learning models typically requiring large amounts of data, it is still possible to construct robust models with limited data by understanding the underlying principles and techniques. 
 
-
+The goal here is to explore and create deep learning models for pneumonia detection using the available dataset.
 
 ##  
 
