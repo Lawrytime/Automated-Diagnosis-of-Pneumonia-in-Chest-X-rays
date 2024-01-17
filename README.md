@@ -6,9 +6,9 @@
 
 ## Content
 - [Project Overview](#overview)
-- [Dataset](#)
+- [Dataset](#dataset)
 - [Image Processing PoV](#image-processing-point-of-view)
-- [Model Architectures](#model-architectures)
+- [Model Architectures](#model-)
     - [Basic Architecture](#basic-cnn-model-implemented)
     - [Transfer Learning](#transfer-learning)
     - [Receptive Fields](#receptive-fields)
