@@ -6,7 +6,7 @@
 
 ## Content
 - [Project Overview](#overview)
-- [Dataset](#dataset)
+- [Dataset](#)
 - [Image Processing PoV](#image-processing-point-of-view)
 - [Model Architectures](#model-architectures)
     - [Basic Architecture](#basic-cnn-model-implemented)
