@@ -1,5 +1,5 @@
 ## **Sample: 
-    Normal vs. Pneumonia Data**
+ Normal vs. Pneumonia Data**
 
 ## **Model Architectures**
   Basic Architecture
