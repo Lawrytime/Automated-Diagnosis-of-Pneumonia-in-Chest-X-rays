@@ -1,8 +1,7 @@
-## **Sample:**
-  - Normal vs. Pneumonia Data
+## **Sample: Normal vs. Pneumonia Data**
 
-## **Model Architectures**
-  - Basic Architecture
+## **Model Architectures:**
+  - Basic CNN Architecture
   - Transfer Learning Architectures
 
 ## **Image Processing PoV**
