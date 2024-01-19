@@ -1,4 +1,4 @@
-## **Sample: Normal vs. Pneumonia Data**
+## **Sample: Normal vs. Pneumonia (Viral/Bacterial) Data**
 
 ## **Model Architectures:**
   - Basic CNN Architecture
