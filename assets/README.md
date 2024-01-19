@@ -1,4 +1,4 @@
-## **Sample Normal vs. Pneumonia Data**
+## **Sample: Normal vs. Pneumonia Data**
 
 ## **Model Architectures**
 
