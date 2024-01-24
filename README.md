@@ -1,4 +1,4 @@
-# Automated-Diagnosis-of-Pneumonia-in-Chest-X-rays
+# Diagnosis-of-Pneumonia-in-Chest-X-rays
 
 ## 
 
